@@ -1,0 +1,2 @@
+# Project-Manager
+project manager is work station where you can setup your company online and start working on your project by sharing any type of files with your team mates. if you have team of developer tester designers with you then you don't have to look for place to setup your business. start working with project manager, where one project manager can manage project with all team. i have applied water fall and agile model while creating this tool
